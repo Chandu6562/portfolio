@@ -27,7 +27,7 @@ menuToggle.addEventListener('click', () => {
 const roles = [
     "Frontend Developer",
     "Full Stack Developer",
-    "MERN Stack Developer"
+    "Python Developer"
   ];
 
   let i = 0;
